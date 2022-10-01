@@ -6,4 +6,4 @@ private String outcomingText;
 	public void soundOut(){
 		System.out.println(outcomingText);
 	}
-}
+}//test
